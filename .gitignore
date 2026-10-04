@@ -1,0 +1,9 @@
+# file sementara & hasil tarikan tidak di-commit
+_chapter_page.json
+output/
+*.webp
+*.png
+*.jpg
+__pycache__/
+*.pyc
+.env
